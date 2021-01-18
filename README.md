@@ -17,7 +17,7 @@ A cookiecutter for making new Python repositories
 3. Run `cookiecutter` with:
 
     ```shell
-    $ cookiecutter https://github.com/cthoyt/cookiecutter-python-package --output-path glorious_avocado
+    $ cookiecutter https://github.com/cthoyt/cookiecutter-python-package --output-dir glorious_avocado
     ```
    
    Change `glorious_avocado` to your package name.
